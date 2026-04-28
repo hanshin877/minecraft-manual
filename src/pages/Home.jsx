@@ -25,7 +25,7 @@ export default function Home({ onNavigate }) {
           marginTop: 8,
           lineHeight: 1.2,
         }}>
-          마인크래프트<br/>초보 가이드
+          찬우를 위한<br/>마인크래프트 초보가이드
         </h1>
         <p style={{ color: '#9ca3af', fontSize: 14, marginTop: 8 }}>
           🌟 같이 배워볼까요? 🌟
