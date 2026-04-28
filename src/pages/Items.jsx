@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { items } from '../data/content';
 
-const categories = ['전체', '도구', '음식', '블록', '특수'];
+const categories = ['전체', '도구', '무기', '갑옷', '음식', '블록', '재료', '특수', '레드스톤'];
 
 export default function Items({ isFav, onToggleFav }) {
   const [activeCategory, setActiveCategory] = useState('전체');

@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { recipes } from '../data/content';
 
-const categories = ['전체', '기본', '도구', '무기', '음식', '건축'];
+const categories = ['전체', '기본', '도구', '무기', '갑옷', '건축', '음식', '레드스톤', '기타'];
 
 function CraftingGrid({ grid }) {
   return (
